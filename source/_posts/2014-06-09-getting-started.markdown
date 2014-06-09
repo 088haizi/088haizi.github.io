@@ -43,7 +43,7 @@ To get started developing your app, you create a new Xcode project.
 
 	`如果你之前从来没创建或者打开过一个 Xcode 工程，那么你应该会看到一个如下的 Xcode 欢迎窗口：`
 	
-	![image](../images/Getting_Started__01.png)
+	![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__01.png)
 
 	If you’ve created or opened a project in Xcode before, you might see a project window instead of the Welcome to Xcode window. 
 	
@@ -52,7 +52,7 @@ To get started developing your app, you create a new Xcode project.
   
 	`在这个欢迎界面，点击“Create a new Xcode project” (或者选择 File > New > Project)。`
 	
-	![image](../images/Getting_Started__02.png)
+	![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__02.png)
 
 	Xcode opens a new window and displays a dialog in which you choose a template. Xcode includes several built-in app templates that you can use to develop common styles of Mac apps.
 	
@@ -69,7 +69,7 @@ To get started developing your app, you create a new Xcode project.
 
   5. A new dialog appears that prompts you to name your app and choose additional options for your project.
   
-    ![image](../images/Getting_Started__03.png)
+    ![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__03.png)
 	
 	`在弹出的新对话框中命名你的应用程序，并给你的工程选取附加选项。`
 	
@@ -106,15 +106,15 @@ To get started developing your app, you create a new Xcode project.
 
 	Xcode opens your new project in a window (called the workspace window), which should look similar to this:
 	
-	![image](../images/Getting_Started__04.png)
+	![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__04.png)
 	
 ***
 
 Take a few moments to familiarize yourself with the workspace window that Xcode opens for you. You’ll use the buttons and areas identified in the window below throughout the rest of this tutorial.
 
-![image](../images/Getting_Started__05.png)
+![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__05.png)
 
-If the utilities area in your workspace window is already open (as it is in the window shown above), you can close it for now because you won’t need it until later in the tutorial. The rightmost View button controls the utilities area. When the utilities area is visible, the button looks like this: ![image](../images/Getting_Started__icon1.jpeg)
+If the utilities area in your workspace window is already open (as it is in the window shown above), you can close it for now because you won’t need it until later in the tutorial. The rightmost View button controls the utilities area. When the utilities area is visible, the button looks like this: ![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__01.png)
 
 If necessary, click the rightmost View button to close the utilities area.
 Even though you haven’t yet written any code, you can build and run your app in Xcode.
@@ -129,9 +129,9 @@ Even though you haven’t yet written any code, you can build and run your app i
 	
 	Xcode should build your project and launch the app. When your app starts up, it should have a standard menu bar and display a single window.
 	
-	![image](../images/Getting_Started__06.png)
+	![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__06.png)
 	
-	![image](../images/Getting_Started__07.png)
+	![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__07.png)
 	
   2. Test the app.
 
@@ -165,7 +165,7 @@ Note: The AppKit framework provides all the classes that an app needs to constru
 
 	The project navigator displays all the files in your project. If the project navigator is not open, click the leftmost button in the navigator selector bar:
 	
-	![image](../images/Getting_Started__08.png)
+	![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__08.png)
 	
   2. Open the Supporting Files folder in the project navigator by clicking the disclosure triangle next to it.
   
@@ -173,7 +173,7 @@ Note: The AppKit framework provides all the classes that an app needs to constru
 
 	Xcode opens the source file in the editor area of the window, which should look similar to this:
 	
-	![image](../images/Getting_Started__09.png)
+	![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__09.png)
 
 ***
 
@@ -195,11 +195,11 @@ NSApplication
 	
 	If an outline view appears instead of the standard editor, click the Standard editor in the Editor toolbar.
 	
-	![image](../images/Getting_Started__10.png)
+	![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__10.png)
 
   2. To display the window, click the window icon in the sidebar.
   
-    ![image](../images/Getting_Started__11.png)
+    ![image](https://raw.githubusercontent.com/088haizi/088haizi.github.io/source/source/images/Getting_Started__11.png)
   
 ***
 
